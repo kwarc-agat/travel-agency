@@ -19,8 +19,6 @@ Single page application for travel agency. Presenting currently offered tours an
 
 ## Demo
 
-<i>in preparation</i>
+[ Check out whole page :eyes: ](https://rawcdn.githack.com/kwarc-agat/travel-agency/master/index.html)
 
-## Getting started
-
-<i>in preparation</i>
+![](https://github.com/kwarc-agat/travel-agency/blob/master/demo_img.jpg)
